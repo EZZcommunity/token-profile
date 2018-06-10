@@ -1,0 +1,55 @@
+ -0,0 +1,27 @@
+
++{
+
++  "symbol": "VTC",
+
++  "address": "0x9073d050Fa90fe910B74E2B1Eb7EFE5A016EAa05",
+
++  "overview":{
+
++        "en": "Bringing new line of car renting service across nations using blockchain technology 
+
++blockchain technology.",
+
+
++  },
+
++  "email": "admin@verdict.club",
+
++  "website": "https://www.verdict.io/",
+
++  "whitepaper": "https://www.verdict.io/VTCWhitePaper.pdf",
+
++  "state": "LOCKED | NORMAL",
+
++  "published_on": "Mar-16-2018",
+
++  "initial_price":{
+
++        "ETH":"0.00003618 ETH",
+
++  },
+
++  "links": {
+
+
+
++    "twitter": "https://twitter.com/VERDICTtoken",
+
++    "telegram": "https://t.me/VERDICTtoken",
+
+
+
+
++    "reddit": "https://www.reddit.com/r/verdict-project/",
+
++    "slack": "https://verdict.slack.com-project",
+
++    "medium": "https://medium.com/verdict-project"
+
++  }
+
++} 
+
+0
